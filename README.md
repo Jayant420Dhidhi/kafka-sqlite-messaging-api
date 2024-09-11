@@ -24,10 +24,7 @@ This project provides a simple API for producing and consuming messages with Kaf
 
 ## Go Application Setup
 
-### Clone the Repository:
-git clone https://github.com/Jayant420Dhidhi/kafka-sqlite-messaging-api
-
-cd kafka-go-api
+### Clone the Repository: https://github.com/Jayant420Dhidhi/kafka-sqlite-messaging-api
 
 ## Install Dependencies:
 
